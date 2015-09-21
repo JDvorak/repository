@@ -4,7 +4,9 @@ Repository is the repository to end all repositories. Builds in seconds. No depe
 ## Installation
 It couldn't be easier.
 
-`git clone https://github.com/JDvorak/repository.git`
+```
+git clone https://github.com/JDvorak/repository.git
+```
 
 That's it. You're ready to rock.
 
